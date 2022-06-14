@@ -1,1 +1,1 @@
-# HTML-CSS-JS-Site-1
+# First project using HTML CSS and JavaScript after second part of the course.
